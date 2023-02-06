@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
