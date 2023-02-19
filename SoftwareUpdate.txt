@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
