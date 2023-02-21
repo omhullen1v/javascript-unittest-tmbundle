@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
