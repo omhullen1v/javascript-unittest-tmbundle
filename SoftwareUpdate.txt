@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add HUB-SDK Docs reference section (#7781)
