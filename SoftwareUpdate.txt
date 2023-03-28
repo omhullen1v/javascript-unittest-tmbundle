@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
