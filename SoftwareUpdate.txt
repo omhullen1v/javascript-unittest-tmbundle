@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
