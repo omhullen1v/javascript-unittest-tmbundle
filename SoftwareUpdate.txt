@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
