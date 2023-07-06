@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix PNNX ubuntu -> linux bug (#7050)
