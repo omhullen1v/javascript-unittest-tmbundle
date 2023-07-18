@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add visuals in guides/distance-calculation.md (#7876)
