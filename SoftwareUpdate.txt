@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
