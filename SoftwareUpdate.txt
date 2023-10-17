@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Optimize function calls to method calls (#8507)
