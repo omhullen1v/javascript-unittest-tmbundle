@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
