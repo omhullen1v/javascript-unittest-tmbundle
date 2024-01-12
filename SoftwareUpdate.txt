@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
