@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
