@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Updating a typo on paddlepaddle.md (#9108)
